@@ -1,6 +1,6 @@
 package com.qa.main;
 
-public class Cat extends Animal implements Walkable {
+public class Cat extends Mammals implements Walkable {
 	
 	String colour = "brown";
 	

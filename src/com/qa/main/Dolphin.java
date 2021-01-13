@@ -1,6 +1,6 @@
 package com.qa.main;
 
-public class Dolphin extends Animal {
+public class Dolphin extends Mammals {
 	
 	String colour = "blue";
 	

@@ -1,6 +1,6 @@
 package com.qa.main;
 
-public class Platypus extends Animal implements EggLayable, Walkable {
+public class Platypus extends Mammals implements EggLayable, Walkable {
 	
 String colour = "grey";
 	
